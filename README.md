@@ -8,9 +8,9 @@
 
 ### Description
 
-Industrial-level web scraper that utilizes a headless Chrome browser ([Puppeteer](https://pptr.dev)) to access web data even without the use of an API.
+Industrial-level web scraper that utilizes Google's headless, open-source Chrome browser ([Puppeteer](https://pptr.dev)) to access web data even without the use of an API.
 
-#### Powered by BrightData's Scraping Browser
+#### Powered by [BrightData's](https://brightdata.com) Scraping Browser
 
 ### Features
 
@@ -20,3 +20,9 @@ Industrial-level web scraper that utilizes a headless Chrome browser ([Puppeteer
 - Browser fingerprint accessibility
 - IP rotation
 - Utilize end-user functionality
+
+### Resources
+
+- #### [Scraping Browser](https://help.brightdata.com/hc/en-us/sections/13350440041873-Scraping-Browser)
+
+- #### [Puppeteer-Core](https://pptr.dev/#puppeteer-core)
