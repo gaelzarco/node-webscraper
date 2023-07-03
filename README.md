@@ -1,6 +1,10 @@
 # Node.js Webscraper
 
-Built using JavaScript & Node.js
+<div style='display: inline-flex; margin-inline: 10px;'>
+  <img src="https://img.shields.io/badge/JavaScript-JavaScript/?logo=javascript&color=black&style=for-the-badge" alt="JavaScript">
+
+  <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
+</div>
 
 ### Description
 
