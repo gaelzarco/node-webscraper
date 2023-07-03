@@ -21,6 +21,8 @@ Industrial-level web scraper that utilizes Google's headless, open-source Chrome
 - IP rotation
 - Utilize end-user functionality
 
+### Documentation
+
 ### Resources
 
 - #### [Scraping Browser](https://help.brightdata.com/hc/en-us/sections/13350440041873-Scraping-Browser)
